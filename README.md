@@ -7,7 +7,8 @@ This repository houses the following tools:
 <!-- prettier-ignore-start -->
 | NPM | Name | 
 | --- | --- | 
-|[![npm (scoped)](https://img.shields.io/npm/v/@graphprotocol/graph-cli.svg?color=success)](https://www.npmjs.com/package/@graphprotocol/graph-cli)| [`@graphprotocol/graph-cli`](./packages/cli) |
+|[![npm (scoped)](https://img.shields.io/npm/v/@graphprotocol/graph-cli.svg?color=success)](https://www.npmjs.com/package/@graphprotocol/graph-cli)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FYaroShkvorets%2Fgraph-tooling.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FYaroShkvorets%2Fgraph-tooling?ref=badge_shield)
+| [`@graphprotocol/graph-cli`](./packages/cli) |
 [![npm (scoped)](https://img.shields.io/npm/v/@graphprotocol/graph-ts.svg?color=success)](https://www.npmjs.com/package/@graphprotocol/graph-ts)|[`@graphprotocol/graph-ts`](./packages/ts)|
 
 <!-- prettier-ignore-end -->
@@ -55,3 +56,6 @@ Unless required by applicable law or agreed to in writing, software distributed 
 distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either expressed or
 implied. See the License for the specific language governing permissions and limitations under the
 License.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FYaroShkvorets%2Fgraph-tooling.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FYaroShkvorets%2Fgraph-tooling?ref=badge_large)
